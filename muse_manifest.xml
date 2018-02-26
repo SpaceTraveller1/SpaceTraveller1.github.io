@@ -1,0 +1,33 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SpaceTraveller1.github.io" resolutions="1x" timestamp="1519661226183">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="479746662" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background1.png" crc="261442486" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-icon-preview-1-400x400.gif" crc="242742538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo-400x400.gif" crc="4284011411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-twitter-logo-vector.gif" crc="213018356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titolovectorwhite.gif" crc="359937976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="219190399" seo="true" mt="1519571124668" redirect="true"/>
+</manifest>
